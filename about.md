@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 About
 
 Education in the U.S. has a history of inequality, dating back to the 1600s. This inequality has been perpetuated through factors such as socioeconomic status, segregation, and racism. While this issue has been attempted to be addressed through legislation, many scholars still perceive the U.S. education system as “separate and unequal” (Howell et al., 2). This website takes a deeper look into this inequality. Specifically, our team explores how the gap in performance between Black and white elementary school students is largely predicted by parental education. This gap has been proven to have a significant effect size in education literature, so we are further delving into this predictor and its implications. Throughout our project, we explore the intersectionality of education, generational patterns, and socioeconomic status. 
