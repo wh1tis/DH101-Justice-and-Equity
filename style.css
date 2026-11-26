@@ -19,9 +19,3 @@
 .page-content li {
     line-height: 1.7;
 }
-
-@media (max-width: 600px) {
-    .page-content {
-        width: 95%;
-    }
-}
