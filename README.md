@@ -12,16 +12,7 @@ permalink: /
     <p style="text-align: center;">TEXT HOLDER</p>
   </div>
 
-  <div align="center" style="
-    background-image: url('classroom.jpg');
-    background-size: cover;
-    background-position: center;
-    padding: 100px 20px;
-    color: white;
-  ">
-    <h1>test</h1>
-    <p>testtest</p>
-  </div>
+
 
   <h2>RESEARCH QUESTIONS:</h2>
 
