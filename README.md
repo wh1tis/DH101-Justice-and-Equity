@@ -2,7 +2,7 @@
 ---
 layout: home
 title: Home
-permalink: /
+permalink: /Home/
 ---
 
 <div class="page-content">
