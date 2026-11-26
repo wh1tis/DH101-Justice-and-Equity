@@ -1,4 +1,3 @@
-
 ---
 layout: home
 title: Home
@@ -11,8 +10,6 @@ permalink: /
     <h1>TITLE HOLDER</h1>
     <p>TEXT HOLDER</p>
   </div>
-
-
 
   <h2>RESEARCH QUESTIONS:</h2>
   <p>test test test</p>
