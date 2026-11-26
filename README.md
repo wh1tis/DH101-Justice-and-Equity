@@ -7,9 +7,10 @@ permalink: /
 <div class="page-content">
 
   <div class="hero">
-    <h1>TITLE HOLDER</h1>
-    <p>TEXT HOLDER</p>
+    <h1 style="text-align: center;">TITLE HOLDER</h1>
+    <p style="text-align: center;">TEXT HOLDER</p>
   </div>
+
 
   <h2>RESEARCH QUESTIONS:</h2>
   <p>test test test</p>
