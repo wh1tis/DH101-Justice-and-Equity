@@ -5,15 +5,14 @@
     text-align: left;
 }
 
-.hero {
-    text-align: center !important;
-    width: 100%;
-    margin: 0 auto 40px auto;
+.page-content .hero {
+    text-align: center;
+    margin-bottom: 40px;
 }
 
-.hero h1,
-.hero p {
-    text-align: center !important;
+.page-content .hero h1,
+.page-content .hero p {
+    text-align: center;
 }
 
 .page-content h2 {
