@@ -12,11 +12,6 @@ permalink: /Home/
     <p>TEXT HOLDER</p>
   </div>
 
-  <p>
-    Github pages repo for our projects website<br>
-    themes: <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll">GitHub Pages Themes</a>
-  </p>
-
 
 
   <h2>RESEARCH QUESTIONS:</h2>
