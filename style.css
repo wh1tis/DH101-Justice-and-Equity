@@ -1,12 +1,6 @@
-.hero {
-  text-align: center;
-}
-
-.hero h1 {
-  font-size: 72px;
-  color: navy;
-}
-
-.hero p {
-  font-size: 20px;
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
 }
