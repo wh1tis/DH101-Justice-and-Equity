@@ -1,0 +1,12 @@
+.hero {
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 72px;
+  color: navy;
+}
+
+.hero p {
+  font-size: 20px;
+}
