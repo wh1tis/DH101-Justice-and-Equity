@@ -3,6 +3,7 @@ layout: home
 title: Home
 permalink: /
 ---
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 
 <div class="hero">
   <h1>TITLE HOLDER</h1>
